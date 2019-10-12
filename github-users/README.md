@@ -1,4 +1,4 @@
-# 
+# Fetch github users
 
 ### This is a study project only and was developed following the ES6 course from Rocketseat :books:
 

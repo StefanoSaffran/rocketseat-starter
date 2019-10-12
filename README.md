@@ -1,1 +1,1 @@
-# Rocketseat Starter session
+# Rocketseat Starter
