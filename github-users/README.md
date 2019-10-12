@@ -4,17 +4,17 @@
 
 ## :electric_plug: Built with
 
-- HTML5
-- CSS3
 - JavaScript
-- axios
-- Babel
 - Webpack
+- Babel
+- Axios
+- CSS3
+- HTML5
 
 <hr />
 
 <img src="src/assets/screenshot-01.png" />
-<img src="client/img/screenshot-02.png" />
+<img src="src/assets/screenshot-02.png" />
 
 <hr />
 
