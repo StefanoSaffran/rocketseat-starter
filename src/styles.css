@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
+
+    * {
+      margin: 0;
+      padding: 0;
+      outline: 0;
+      box-sizing: border-box;
+    }
+
+    html,
+    body,
+    #root {
+      min-height: 100%;
+    }
+
+    body {
+      background: rgb(100, 99, 99) url('https://images.unsplash.com/photo-1477949331575-2763034b5fb5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80') no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+      -webkit-font-smoothing: antialiased !important;
+    }
+
+    body,
+    input,
+    button {
+      font-family: 'Roboto', Arial, Helvetica, sans-serif;
+      font-size: 14px;
+    }
+
+    .container {
+      margin: 80px auto 0;
+      max-width: 450px;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .content {
+      width: 100%;
+      background: rgba(194, 193, 193, 0.4);
+      margin-top: 50px;
+      border-radius: 4px;
+      padding: 30px;
+    }
+
+    .content .fa-github {
+      margin: 20px 40%;
+    }
+
+    .content>p {
+      font-size: 22px;
+      line-height: 30px;
+      margin-bottom: 30px;
+    }
+
+    .content form {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .content form label {
+      font-size: 14px;
+      color: #444;
+      font-weight: bold;
+      margin-bottom: 8px;
+    }
+
+    .content form input {
+      margin-bottom: 20px;
+      border: 1px solid #ddd;
+      border-radius: 2px;
+      height: 45px;
+      padding: 0 15px;
+      font-size: 16px;
+    }
+
+    .content button.btn {
+      border: 0;
+      border-radius: 2px;
+      width: 100%;
+      height: 42px;
+      padding: 0 20px;
+      font-size: 16px;
+      font-weight: bold;
+      background: #323232;
+      color: #fff;
+      cursor: pointer;
+    }
+
+    .content button.btn:hover {
+      background: #161616;
+    }
+
+    ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      font-family: sans-serif;
+    }
+
+    li {
+      clear: both;
+      margin-top: 20px;
+    }
+
+    img {
+      width: 100px;
+      float: left;
+      margin-right: 10px;
+      border: 1px solid #161616;
+    }
+
+    strong {
+      font-size: 22px;
+    }
+
+    p {
+      margin: 5px 0;
+      font-size: 16px;
+    }
+
+    a {
+      font-size: 18px;
+      text-decoration: none;
+      font-weight: bold;
+      border: 0;
+      border-radius: 2px;
+      padding: 3px 25px;
+      background: #323232;
+      color: #fff;
+      cursor: pointer;
+    }
+
+    a:hover {
+      background: #161616;
+    }
+    
