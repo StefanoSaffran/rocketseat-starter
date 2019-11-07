@@ -1,23 +1,33 @@
-# Fetch github users
+<h1 align="center">
+  Fetch github users profile
+</h1>
+
+<h3 align="center">
+  Rocketseat starter - ES6 Session
+</h3>
 
 ### This is a study project only and was developed following the ES6 course from Rocketseat :books:
 
-### You can see the application <a href="https://condescending-pasteur-70550a.netlify.com">here</a>
+<p align="center">
+You can see the results <a href="https://condescending-pasteur-70550a.netlify.com">here</a>
+</p>
 
-## :electric_plug: Built with
+## :rocket: Built with
 
-- JavaScript
-- Webpack
-- Babel
-- Axios
-- CSS3
-- HTML5
+- [JavaScript](https://www.w3schools.com/js/)
+- [Webpack](https://webpack.js.org/)
+- [Babel](https://babeljs.io/)
+- [Axios](https://github.com/axios/axios)
+- [CSS3](https://www.w3schools.com/css/)
+- [HTML5](https://www.w3schools.com/html/)
+- [Font Awesome](https://fontawesome.com/)
 
 <hr />
 
 <img src="src/assets/screenshot-01.png" />
 <img src="src/assets/screenshot-02.png" />
 
-<hr />
 
-### <a href="https://www.linkedin.com/in/stefanosaffran/">LinkedIn</a> | <a href="https://stefanosaffran.com">Website</a>
+## :mailbox_with_mail: Get in touch!
+
+[LinkedIn](https://www.linkedin.com/in/stefanosaffran/) | [Website](https://stefanosaffran.com)
